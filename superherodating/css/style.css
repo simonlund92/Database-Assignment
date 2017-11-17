@@ -1,0 +1,46 @@
+body{
+	margin: 0 auto;
+	align-items: center;
+}
+.login{
+ text-align: center;
+}
+
+.profilinfo{
+	margin: 0 auto;
+	text-align: center;
+}
+
+.otherusers{
+	display: block;
+	clear: right;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.comments{
+	text-align: center;
+}
+
+.privatemessage{
+	text-align: center;
+}
+
+
+
+form {
+	display: inline-block;
+}
+
+section.profilecomment {
+	border: solid;
+	border-width: 1px;
+	padding: 10px 10px 10px 10px;
+}
+
+.message {
+	border: solid;
+	border-width: 1px;
+	padding: 10px 10px 10px 10px;
+}
+
